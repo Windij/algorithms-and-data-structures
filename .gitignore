@@ -9,3 +9,4 @@ build/
 
 # Игнорируем настройки VS Code
 .vscode/
+.tasks/
